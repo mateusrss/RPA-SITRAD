@@ -20,6 +20,4 @@ Antes de executar o projeto, você precisa garantir que as seguintes dependênci
 - **Bibliotecas Python**: Instale as dependências necessárias com o seguinte comando:
 
 ```bash
-pip install pyautogui smtplib email
-
 pip install pyautogui
